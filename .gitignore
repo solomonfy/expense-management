@@ -1,0 +1,8 @@
+.classpath
+.settings
+bin/
+target/
+.project
+.vscode/
+
+/Users/solomonyismaw/Revature/My_Projects/Expense-management/hs_err_pid13497.log
